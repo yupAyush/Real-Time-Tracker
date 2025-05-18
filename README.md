@@ -9,7 +9,7 @@ This project implements a **real-time location tracker** similar to Uber or Zoma
 - Updates location **every second**
 - Uses **WebSockets** for real-time updates
 - Renders a **dynamic map** with Leaflet.js
-- Supports **image display** for tracking or branding purposes
+
 
 ## Live Tracking image
 -![](trackerimg.png)
