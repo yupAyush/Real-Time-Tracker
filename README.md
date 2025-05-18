@@ -11,7 +11,7 @@ This project implements a **real-time location tracker** similar to Uber or Zoma
 - Renders a **dynamic map** with Leaflet.js
 - Supports **image display** for tracking or branding purposes
 
-## Live Tracking Imge
+## Live Tracking image
 -![](trackerimg.png)
 
 ## Installation
